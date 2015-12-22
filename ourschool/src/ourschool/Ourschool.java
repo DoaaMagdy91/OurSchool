@@ -18,6 +18,7 @@ public class Ourschool {
         
         // TODO code application logic here
         System.out.println("Doaa");
+        System.out.println("Hello Doaa");
     }
     
     
